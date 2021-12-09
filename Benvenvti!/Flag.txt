@@ -1,0 +1,3 @@
+# Challenge Url: https://training.olicyber.it/challenges#challenge-121
+
+# Flag: flag{Benvenuti_alla_ctf!}
