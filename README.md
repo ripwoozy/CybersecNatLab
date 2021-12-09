@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
+  <a href="https://training.olicyber.it/challenges">
     <img src="https://olicyber.it/assets/loghi/logo-cc-originale.png" alt="Logo" width="600" height="300">
   </a>
 
