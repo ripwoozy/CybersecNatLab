@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://olicyber.it/assets/loghi/logo-cc-originale.png" alt="Logo" width="1590" height="486">
+    <img src="https://olicyber.it/assets/loghi/logo-cc-originale.png" alt="Logo" width="1200" height="486">
   </a>
 
   <h3 align="center">CybersecNatLab</h3>
