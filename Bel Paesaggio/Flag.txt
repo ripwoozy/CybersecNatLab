@@ -1,0 +1,3 @@
+# Challenge Url = https://training.olicyber.it/challenges#challenge-14
+
+# Flag = flag{la_pazienza_ha_un_limite}
