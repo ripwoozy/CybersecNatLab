@@ -1,0 +1,3 @@
+#Challenge Link: https://training.olicyber.it/challenges#challenge-61
+
+#Flag:  flag{BACONISSOTASTY}
