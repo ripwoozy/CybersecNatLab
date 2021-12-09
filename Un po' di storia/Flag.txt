@@ -1,0 +1,3 @@
+# Challenge Url: https://training.olicyber.it/challenges#challenge-136
+
+# Flag: flag{hai_rotto_autokey_bravo}
