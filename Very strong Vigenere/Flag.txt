@@ -1,0 +1,3 @@
+# Challenge Url = https://training.olicyber.it/challenges#challenge-80
+
+# Flag = flag{non_usare_chiavi_piccole}
