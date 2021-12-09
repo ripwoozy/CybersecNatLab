@@ -1,3 +1,3 @@
 # Challenge Link: https://training.olicyber.it/challenges#challenge-13
 
-# Flag:  flag{prisencolinensinainciusol}
+# Flag: flag{prisencolinensinainciusol}
