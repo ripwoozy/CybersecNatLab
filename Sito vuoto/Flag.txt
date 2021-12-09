@@ -1,0 +1,3 @@
+# Challenge Url = https://training.olicyber.it/challenges#challenge-60
+
+# Flag = flag{you_can_t_see_me_in_the_browser}
