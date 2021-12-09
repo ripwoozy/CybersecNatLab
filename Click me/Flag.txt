@@ -1,0 +1,3 @@
+# Challenge Url: https://training.olicyber.it/challenges#challenge-46
+
+# Flag: flag{n3v3r_tru5t_c00k1e5}
