@@ -1,0 +1,3 @@
+# Challenge Url = https://training.olicyber.it/challenges#challenge-62
+
+# Flag = flag{simple_rotor_bruteforcing}
