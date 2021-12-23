@@ -1,0 +1,16 @@
+Questo è un fattore primo (p): 18491152789295284289
+Questo è l'altro fattore primo (q): 29328586263505062073
+Questo è l'esponente pubblico (e): 65537
+
+[#] Invia il modulo pubblico (n): 542319369692498988208966330499126671097
+[#] Invia phi(n): 542319369692498988161146591446326324736
+[#] Invia l'esponente privato (d): 232031297224127922059882973345667182593
+[#] Cifra la stringa 'OliCyber': 430937223115540934971546757010459922198
+
+Ottimo lavoro!
+Per unirti alla nostra grande armata presenta il token a uno dei nostri punti di reclutamento.
+Il token è cifrato usando AES in modalità CBC, la chiave è cifrata utilizzando RSA con gli stessi parametri visti nella challenge.
+IV: 24eace2d36ced1cd37bafd188ec2ecfe
+CHIAVE: ea897bab118c20195300100daf1da88 -- 19484575248319829443990573124431239816 -- 
+95089472017340912271065067144148531011 -- G\x89\x90\xef\x8f\xb8\n@\x07\xa3\xa8E\x96a\xb7C --
+TOKEN: 129f2d3de41623b9b4d2fb0a66ec08e1bc3b015351f7b46a13c7d6b1d926f3a8
