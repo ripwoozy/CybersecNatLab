@@ -12,5 +12,5 @@ Per unirti alla nostra grande armata presenta il token a uno dei nostri punti di
 Il token è cifrato usando AES in modalità CBC, la chiave è cifrata utilizzando RSA con gli stessi parametri visti nella challenge.
 IV: 24eace2d36ced1cd37bafd188ec2ecfe
 CHIAVE: ea897bab118c20195300100daf1da88 -- 19484575248319829443990573124431239816 -- 
-95089472017340912271065067144148531011 -- G\x89\x90\xef\x8f\xb8\n@\x07\xa3\xa8E\x96a\xb7C --
+95089472017340912271065067144148531011 -- 478990EF8FB80A4007A3A8459661B743 --
 TOKEN: 129f2d3de41623b9b4d2fb0a66ec08e1bc3b015351f7b46a13c7d6b1d926f3a8
