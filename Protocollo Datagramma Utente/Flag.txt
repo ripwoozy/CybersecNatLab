@@ -1,0 +1,3 @@
+# Challenge URL = https://training.olicyber.it/challenges#challenge-30
+
+# Flag = flag{with_UDP_computer_applications_can_send_messages_in_this_c4s3_r3f3rr3d_t0_as_datagr4ms}
