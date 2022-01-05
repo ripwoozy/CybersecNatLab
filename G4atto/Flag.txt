@@ -1,0 +1,3 @@
+# Challenge Url = https://training.olicyber.it/challenges#challenge-24
+
+# Flag = flag{C4ts4r3Cut3}
