@@ -1,0 +1,3 @@
+# Challenge Url = https://training.olicyber.it/challenges#challenge-150
+
+# Flag = flag{la_pazienza_e_la_virtu_dei_forti_3578735382}
