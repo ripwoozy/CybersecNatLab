@@ -1,0 +1,3 @@
+# Challenge Url = https://training.olicyber.it/challenges#challenge-165
+
+# Flag = ptm{Random_fUnction_is_sometimes_vulnerable}
