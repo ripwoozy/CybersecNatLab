@@ -1,0 +1,4 @@
+#Challenge Url = https://training.olicyber.it/challenges#challenge-218
+
+# Flag = flag{s3cr3t_d4t4_9c10c3ce5bbcd8f22986de48e5101979040b6b22}
+

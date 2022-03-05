@@ -1,0 +1,4 @@
+#Challenge Url = https://training.olicyber.it/challenges#challenge-221
+
+# Flag = flag{where_are_my_eggs}
+
