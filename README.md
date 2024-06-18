@@ -11,6 +11,9 @@
   <p align="center">
 		Capture The Flag - Olimpiadi Italiane di Cybersecurity
   </p>
+  <p align="center">
+	  	Capture The Flag - Italian Cybersecurity Olympics
+  </p>
 </div>
 
 
